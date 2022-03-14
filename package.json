@@ -1,0 +1,13 @@
+{
+    "name": "com.imfine.testpackage",
+    "version": "1.0.0",
+    "displayName": "IMFINE Test Package",
+    "description": "IMFINE Test Package.",
+    "unity": "2020.2",
+    "unityRelease": "6f1",
+    "author": {
+        "name": "Jeong Jae Hong",
+        "email": "jaehong.jeong@im-fine.co.kr",
+        "url": ""
+    }
+}
